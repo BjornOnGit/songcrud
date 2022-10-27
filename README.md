@@ -1,1 +1,2 @@
-# songcrud
+This repository has a django project that is titled songcrud and an app called musicapp for the I4G X Zuri training program.
+The repository also contains a requirement.txt file that lists all the dependencies required for the project.
